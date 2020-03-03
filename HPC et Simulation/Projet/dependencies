@@ -1,0 +1,10 @@
+###########################################
+####### EPIDEMIC SIMU. DEPENDENCIES #######
+###########################################
+
+argparse
+pyfiglet
+numpy
+networkx
+matplotlib
+scipy
